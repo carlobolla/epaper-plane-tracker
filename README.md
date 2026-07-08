@@ -109,9 +109,9 @@ Open the project in the Arduino IDE (or PlatformIO), select your ESP32-S3 board,
 ```
 .
 ├── src/
-│   ├── config.example.h  # template for config.h (copy and fill in your own)
-│   └── ...               # firmware source
-├── enclosure/            # 3D-printable enclosure files (coming soon)
+│   └── epaper-plane-tracker   # firmware source and example config
+├── enclosure/                 # 3D-printable enclosure files (coming soon)
+├── docs/                      # README.md images
 └── README.md
 ```
 
